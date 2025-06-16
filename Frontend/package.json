@@ -1,5 +1,5 @@
 {
-  "name": "im2",
+  "name": "frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.10",
-    "postscss": "^2.0.0",
+    "postcss": "^8.5.5",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "tailwindcss": "^4.1.10"

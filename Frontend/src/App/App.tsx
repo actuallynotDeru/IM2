@@ -1,4 +1,5 @@
-import '../styles/index.css'
+import '../Styles/index.css'
+
 function App() {
 
   return (
